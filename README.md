@@ -1,7 +1,7 @@
 Hi 👋 My name is David
 ======================
 
-Web Developer and Designer
+Data Analyst, Web Developer and Designer
 --------------------------
 
 I've been learning to code for 5 years and I have found my passion for fullstack web development
@@ -10,7 +10,7 @@ I've been learning to code for 5 years and I have found my passion for fullstack
 *   🖥️  See my portfolio at [davecodesstuff.netlify.app](http://davecodesstuff.netlify.app)
 *   ✉️  You can contact me at [davidsibanda776@gmail.com](mailto:davidsibanda776@gmail.com)
 *   🧠  I'm learning Figma
-*   🤝  I'm open to collaborating on Frontend projects
+*   🤝  I'm open to collaborating on Frontend projects and Data analysis projects
 
       <a href="https://www.twitter.com/HieDave_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/HieDave_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
